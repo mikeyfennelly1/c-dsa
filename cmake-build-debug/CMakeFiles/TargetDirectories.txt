@@ -1,0 +1,3 @@
+/home/mfennelly/projects/scrap/c/cmake-build-debug/CMakeFiles/c.dir
+/home/mfennelly/projects/scrap/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mfennelly/projects/scrap/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
